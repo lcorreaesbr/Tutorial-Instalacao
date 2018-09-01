@@ -150,13 +150,15 @@ echo "==== Instalação dependências pip para os módulos ===="
     #pip3 install suds_requests
     git clone https://github.com/armooo/suds_requests
     cd suds_requests/
-    python setup.py install
+    python3 setup.py install
+    #python setup.py install
     cd ..
     pip3 install urllib3
     #pip3 install pytrustnfe
     git clone https://github.com/danimaribeiro/PyTrustNFe
     cd PyTrustNFe/
-    python setup.py install
+    python3 setup.py install
+    #python setup.py install
     cd ..
     pip3 install python3-boleto
     pip3 install python3-cnab
