@@ -1,4 +1,7 @@
+
 # Tutorial Instalação para Desenvolvedores
+
+Corrigido erros de instalação e falta de pacotes
 
 
 Disponível atualização automática em batch para sistemas debian based(apt-get).
